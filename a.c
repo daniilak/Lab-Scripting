@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+//  для преподавания
 int main () {
     int a = 15;
     if (a == 15) {
